@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,500,600,700,800,900,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script:400&display=swap);
 
 
 
@@ -30,7 +30,7 @@ body {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Kaushan Script', handwriting;
   font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
