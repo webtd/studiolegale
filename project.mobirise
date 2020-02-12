@@ -32,6 +32,18 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/bilance-128x128.png",
+    "noImageResize": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 14,
     "versionPublish": "4.11.6"
   },
@@ -39,11 +51,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Studio Legale Vinci",
+        "meta_descr": "Il sito legale dello Studio Vinci. Uno degli studi legali più rinomati e affidabili della regione Marche. Specializzato in separazioni, diritto penale, civile, ecc.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1918x1920.png"
       },
       "components": [
         {
